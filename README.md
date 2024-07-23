@@ -1,6 +1,6 @@
 # Hello, I'm Ovidio Romero 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/ovidioromero?label=Follow&style=social)](https://github.com/ovidio-romero)
+[![GitHub followers](https://img.shields.io/github/followers/ovidio-romero?label=Follow&style=social)](https://github.com/ovidio-romero)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ovidio_romero01?style=social)](https://twitter.com/ovidio_romero01)
 
 ## About Me
